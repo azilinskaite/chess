@@ -1,0 +1,20 @@
+#square {
+    outline: 10px solid #f05712;
+    border: 48.5px solid #2cd64d;
+    background-color: #f05712;
+    width: 75px;
+    height: 75px;
+    margin: 30px;
+  }
+
+  #square2 {
+    outline: 10px solid #2cd64d;
+    border: 48.5px solid #f05712;
+    background-color: #2cd64d;
+    width: 75px;
+    height: 75px;
+    margin: 30px;
+  }
+  
+
+  
